@@ -5,6 +5,8 @@ Sure! Here's the revised `README.md` file formatted for GitHub:
 
 Developed a basic eCart where we can choose the product we want.
 
+![eCart Screenshot](https://github.com/LakshmiDathatreyaK/AngularEcart/blob/main/MAIN%20PAGE.png?raw=true)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
 
 ## Development server
