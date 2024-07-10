@@ -1,13 +1,8 @@
-Sure! Here's the revised `README.md` file formatted for GitHub:
-
-```markdown
 # AngularEkart
 
 Developed a basic eCart where we can choose the product we want.
 
 ![eCart Screenshot](https://github.com/LakshmiDathatreyaK/AngularEcart/blob/main/MAIN%20PAGE.png?raw=true)
-
-https://github.com/LakshmiDathatreyaK/AngularEcart/blob/main/MAIN%20PAGE.png?raw=true
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
 
@@ -34,6 +29,3 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-```
-
-You can copy and paste this code into your `README.md` file on GitHub.
